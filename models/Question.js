@@ -22,7 +22,7 @@ class Question {
     console.log("\n")
     allQuestions.forEach(function(question){
       console.log(question.content)
-    })
+    }
     console.log("\n")
   }
 
