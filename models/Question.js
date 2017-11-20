@@ -47,7 +47,7 @@ class Question {
     console.log(question.content)
     console.log("\n")
   }
-}
+
 
 Question._All = [
   new Question("Where in the world is Carmen Sandiego?"),
